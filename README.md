@@ -9,4 +9,4 @@
 ## Video chạy chương trình
 
 ---
-## Link video youtube: 
+## Link video youtube: https://youtu.be/7mm_bIO7zjc
