@@ -7,3 +7,6 @@
 ## Lấy danh sách điểm của lớp, phân cụm lớp thành 3 nhóm 
 ## Nộp 1 file code
 ## Video chạy chương trình
+
+---
+## Link video youtube: 
